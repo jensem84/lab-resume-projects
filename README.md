@@ -1,2 +1,2 @@
-# lab-resume-projects
+# lab-portfolio-html
 All projects that showcase abilities
